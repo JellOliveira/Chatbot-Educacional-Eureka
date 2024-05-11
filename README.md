@@ -1,6 +1,5 @@
 ## 📚 **Chatbot Educacional Eureka**! Seu companheiro de estudos com IA 🤖
-<img src="![image](https://github.com/JellOliveira/Desafio-IA-Gemini/assets/169402531/2748c3d5-539b-4aad-97f1-90c9acbe7bbc)
-" width="500"> 
+<img src="![image](https://github.com/JellOliveira/Desafio-IA-Gemini/assets/169402531/2748c3d5-539b-4aad-97f1-90c9acbe7bbc)" width="500"> 
 
 
 ---
