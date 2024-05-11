@@ -1,5 +1,6 @@
 ## 📚 **Chatbot Educacional Eureka**! Seu companheiro de estudos com IA 🤖
-![Imagem de um chatbot amigável e estudante estudando](https://www.exemplo.com/imagem.jpg)
+![Imagem de um chatbot amigável e estudante estudando](![image](https://github.com/JellOliveira/Desafio-IA-Gemini/assets/169402531/04a67e1e-b4b1-4955-9e3a-8d3dcdb1d977)
+)
 
 ---
 
@@ -26,7 +27,7 @@ Junte-se a nós nessa jornada de aprendizado!
 
 ----
 
-**💻 Eureka! por trás das cortinas: Desvendando a mágica da IA ✨**
+## **💻 Eureka! por trás das cortinas: Desvendando a mágica da IA ✨**
 
 Desenvolver o Eureka! foi uma jornada incrível de aprendizado e criatividade! 🚀 E para que vocês, avaliadores, conheçam um pouco mais sobre o processo, abrimos as cortinas e revelamos os bastidores da construção desse chatbot revolucionário:
 
